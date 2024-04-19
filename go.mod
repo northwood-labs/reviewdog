@@ -11,7 +11,6 @@ require (
 	github.com/golang/protobuf v1.5.4
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-github/v60 v60.0.0
-	github.com/google/go-github/v61 v61.0.0
 	github.com/haya14busa/go-actions-toolkit v0.0.0-20200105081403-ca0307860f01
 	github.com/haya14busa/secretbox v0.0.0-20180525171038-07c7ecf409f5
 	github.com/justinas/nosurf v1.1.1
@@ -56,7 +55,7 @@ require (
 	github.com/prometheus/prometheus v2.5.0+incompatible // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
 	golang.org/x/crypto v0.21.0 // indirect
-	golang.org/x/net v0.22.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
